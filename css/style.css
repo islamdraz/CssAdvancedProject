@@ -42,4 +42,26 @@ padding:30px;
 
 .heading-primary{
   color: #fff;
+  text-transform: uppercase;
+}
+.heading-primary-main{
+  display: block;
+  font-weight: 400;
+  font-size: 60px;
+  letter-spacing: 35px;
+}
+
+.heading-primary-sub{
+  display: block;
+  font-weight: 700;
+  font-size: 20px;
+  letter-spacing: 17.4px;
+}
+
+
+.text-box{
+  position:absolute;
+  top:40%;
+  left:50%;
+  transform: translate(-50%,-50%);
 }
